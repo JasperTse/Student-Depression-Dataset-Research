@@ -1,5 +1,5 @@
 # COMP5121 Data Mining and Data Warehousing Applications Project
-## The Hong Kong Polytechnic University. Spring, 2025.
+> The Hong Kong Polytechnic University. Spring, 2025.
 
 This repository shows our jupyter notebook and report of this project.
 
